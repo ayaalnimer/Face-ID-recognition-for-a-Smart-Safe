@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\FaceIDRecognitionForASmartSafe.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "FaceIDRecognitionForASmartSafe.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	FaceIDRecognitionForASmartSafe.c
+warning: 154	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	FaceIDRecognitionForASmartSafe.c
+hint: 129	1163	Variable 'a' has been declared, but not used	FaceIDRecognitionForASmartSafe.c
+warning: 230	1503	Result is not defined in function: 'main'	FaceIDRecognitionForASmartSafe.c
+diagnostics: 230	123	Compiled Successfully	FaceIDRecognitionForASmartSafe.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 84 (24%)  Free RAM (bytes): 268 (76%)	Used RAM (bytes): 84 (24%)  Free RAM (bytes): 268 (76%)
+hint: 0	1144	Used ROM (program words): 687 (8%)  Free ROM (program words): 7505 (92%)	Used ROM (program words): 687 (8%)  Free ROM (program words): 7505 (92%)
+diagnostics: 0	125	Project Linked Successfully	FaceIDRecognitionForASmartSafe.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'FaceIDRecognitionForASmartSafe.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 22 Jan 2023, 22:55:41	FaceIDRecognitionForASmartSafe.mcppi
