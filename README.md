@@ -1,1 +1,3 @@
 # Face-ID-recognition-for-a-Samrt-Safe
+This Face ID recognition system for safe allows a specific user to access it based on their face ID. First of all, an IR sensor senses whether a person is standing close to it, and if so, a yellow LED turns on indicating that you can use the system. The lock for the safe is a servo motor that rotates from 0 to 90˚. If the user’s face is authorized to access, then the door unlocks and a green LED turns on for a short period of time. Otherwise, the user can have three attempts to sign in before the alarm goes off and a red light turns on every time a failed attempt occurs. 
+
